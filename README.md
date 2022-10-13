@@ -1,1 +1,1 @@
-# hotel-holiday-JEE
+# hotel-holiday
